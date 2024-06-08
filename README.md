@@ -1,0 +1,1 @@
+# Wazuh-Email-Alert-and-Active-respond
